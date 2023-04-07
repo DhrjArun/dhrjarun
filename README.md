@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently contributing to open source
-- 🌱 I’m currently learning rust, svelte, parser design
-- 📫 How to reach me: dhrjarun@gmail.com
+- 🔭 I’m currently buidling a ghaphql/typescripy library
+- 🌱 I’m currently learning computer networking and security
+- 📫 How to reach me: dhrjarun@proton.me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love reading history
