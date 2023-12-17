@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently building a ghaphql/typescript library
-- 🌱 I’m currently learning computer networking and security
+Visit my [website](dhrjarun.github.io) for more information. 
+
 - 📫 How to reach me: dhrjarun@proton.me
 - 😄 Pronouns: he/him
